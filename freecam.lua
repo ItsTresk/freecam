@@ -21,7 +21,7 @@ LocalScript0.Parent = mas
 table.insert(cors,sandbox(LocalScript0,function()
 -----------------------------------------------------------------------
 -- Freecam
--- Cinematic free camera for spectating and video production.
+-- Cinematic free camera for spectating and video production. 
 ------------------------------------------------------------------------
 
 local pi    = math.pi
